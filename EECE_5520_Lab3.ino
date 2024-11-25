@@ -314,7 +314,6 @@ void loop() {
         speed_index--;
         speed = speed_settings[speed_index];
       }
-  } else {
   }
 
 }
